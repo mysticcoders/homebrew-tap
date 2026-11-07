@@ -1,6 +1,6 @@
 cask "volant" do
-  version "0.3.36"
-  sha256 "f650686ec07de74a79f502f342106065c237fe5e4fe6d8291bd86e3e962ba838"
+  version "0.3.37"
+  sha256 "af405b1420c564243572f4f94b0a4409a107b2a81474d882f4832545ff00a661"
 
   url "https://usevolant.com/updates/Volant-#{version}.dmg"
   name "Volant"
